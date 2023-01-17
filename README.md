@@ -1,2 +1,8 @@
 # Lambda-function-U6
-Función Lambda crear pago con al librería de mercadopago
+
+## Descripción
+Función Lambda para crear pago con la librería de mercadopago en python
+
+## Autor
+- [Gefferson Max Casasola Huamancusi](https://www.github.com/Geffrerson7)
+
